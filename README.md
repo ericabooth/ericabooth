@@ -5,7 +5,11 @@
 Currently, I am leveraging my background in data modernization and advanced analytics as part of the team at the non-partisan policy think tank **Texas 2036**, focusing on data-driven policy solutions for the state of Texas. 
 
 My past appointments include:  
-Senior Director of Research and President at **Far Harbor**, Research Faculty at TAMU Public Policy Research Institute, Lecturer in the Dept of Health Policy Management at TAMU, and Sr. Research Scientist with Gibson Consulting. I also served as an affiliated researcher with the Texas Education Research Center and the Southwest Regional Education Laboratory.
+   - **Senior Director of Research** and President at Far Harbor, LLC in Austin, TX.
+   - **Research Faculty** at the Texas A&M University Public Policy Research Institute (PPRI)
+   - **Lecturer** in the Department of Health Policy & Management at Texas A&M University
+   - **Senior Research Scientist** with Gibson Consulting Group
+I also served as an affiliated researcher with the Texas Education Research Center and the Southwest Regional Education Laboratory (REL).
 
 I have about two decades of experience in **Monitoring, Evaluation, and Learning (MEL)**. My work sits at the intersection of complex statistical programming and applied policy research, with a career dedicated to building the evidence base for state and national programs and foundation funded initiatives.
 
