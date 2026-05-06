@@ -13,41 +13,6 @@ I also served as an affiliated researcher with the Texas Education Research Cent
 
 I have about two decades of experience in **Monitoring, Evaluation, and Learning (MEL)**. My work sits at the intersection of complex statistical programming and applied policy research, with a career dedicated to building the evidence base for state and national programs and foundation funded initiatives.
 
-
-
----
-
-### 📖 Professional Background
-
-My career has focused on designing and executing high-stakes evaluations in **Education, Behavioral Health, and Juvenile Justice**. My approach combines rigorous quasi-experimental designs with modern automation to ensure that research is both scientifically sound and practically actionable. I conduct evaluations as an embedded partner with sponsors and Foundation funders using an implementation science framework to help facilitate strong researcher-practitioner partnerships and responsive program implementation.
-
-- **Far Harbor & Texas 2036:** Leading research strategy, statistical analysis, and data modernization and  harmonization via automation.
-- **Academic Roots:** Former Lecturer in Graduate Research Methods at **Texas A&M University** and Senior Research Associate at the Public Policy Research Institute (PPRI).
-- **Public Health & Education Policy Impact:** Published in the *Journal of Developmental Education*, *Party Politics*, *American Journal of Public Health* , *Journal of Applied Research on Children*, and co-author of a book from Teachers College Press, along with over 80 technical and evaluation reports, my work has impacted policy and programs in a variety of public health and education settings. My work on the school-to-prison pipeline in the CSG-sponser report *Breaking Schools’ Rules* provided statewide analysis of school discipline that spurred legislative changes at the Federal and State level (including cited as the motivating study for President Obama's 'My Brother's Keeper' initiative.
-- **Data Advocacy:** Advocate for state-level data modernization to improve machine-readability and transparency in public reporting.
-
----
-
-### 🛠️ Core Expertise
-
-- **Statistical Programming:** Expert-level development in **Stata** (SSC Contributor) and **Python**. Some experience with R, SAS, and Nvivo.
-- **Complex Modeling:** Specialization in Multilevel Modeling (MLM), panel data analysis, sampling weights, and nonresponse bias sensitivity analysis. Strong experience with LASSO and related machine learning models.
-- **Workflow Automation:** Engineering reproducible "end-to-end" data pipelines (Raw Data -> Analytic Dataset -> Visualizations/Deliverables).
-- **Study Design:** Lead investigator for large-scale longitudinal studies and randomized controlled trials (RCTs), including leading designs that account for messy data collection and challenging participant retention.
----
-
-### 🚀 Open Source Software (Stata SSC Packages)
-
-I am an active contributor to the Stata community, developing tools that extend Stata's capabilities for visualization, data management, and randomized workflows. Some examples:
-
-- 📊 **[statplot](https://ideas.repec.org/c/boc/bocode/s457318.html)**: Descriptive statistics visualization.
-- 🔗 **[nearmrg](https://ideas.repec.org/c/boc/bocode/s457223.html)**: Advanced nearest-match merging for complex dataset alignment.
-- 🎲 **[ralpha](https://ideas.repec.org/c/boc/bocode/s457065.html)**: Randomized string and ID generation for study blinding.
-- 🔍 **[obsdiff](https://ideas.repec.org/c/boc/bocode/s457335.html)**: Precise identification of structural differences across dataset observations.
-- 📂 **[writeinput](https://ideas.repec.org/c/boc/bocode/s457223.html)**: Utility for generating reproducible -input- code blocks from live datasets.
-- 📅 **[datesum](https://ideas.repec.org/c/boc/bocode/s457106.html)**: Specialized summary statistics for Stata date variables.
-- 🛠️ **[slideviewer](https://ideas.repec.org/c/boc/bocode/s457418.html)**: Interactive navigation engine for SMCL-based slide decks and tutorials.
-
 ---
 
 ### 💻 Technical Stack
@@ -62,12 +27,20 @@ I am an active contributor to the Stata community, developing tools that extend 
 
 ---
 
-### 📈 GitHub Ecosystem
+### 📖 Professional Background
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericabooth&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericabooth&layout=compact&theme=tokyonight" />
-</p>
+My career has focused on designing and executing high-stakes evaluations in **Education, Behavioral Health, and Juvenile Justice**. My approach combines rigorous quasi-experimental designs with modern automation to ensure that research is both scientifically sound and practically actionable. I conduct evaluations as an embedded partner with sponsors and Foundation funders using an implementation science framework to help facilitate strong researcher-practitioner partnerships and responsive program implementation.
+- **Public Health & Education Policy Impact:** Published in the *Journal of Developmental Education*, *Party Politics*, *American Journal of Public Health* , *Journal of Applied Research on Children*, and co-author of a book from Teachers College Press, along with over 80 technical and evaluation reports, my work has impacted policy and programs in a variety of public health and education settings. My work on the school-to-prison pipeline in the CSG-sponsered report *Breaking Schools’ Rules* provided statewide analysis of school discipline that spurred legislative changes at the Federal and State level (including cited as the motivating study for President Obama's 'My Brother's Keeper' initiative.
+- **Data Advocacy:** Advocate for state-level data modernization (& data rescue efforts) to improve ready harmonization, machine-readability, and transparency in public reporting.
+
+---
+
+### 🛠️ Core Expertise
+
+- **Statistical Programming:** Expert-level development in **Stata** (active SSC Contributor) and **Python**. Some experience with R, SAS, and Nvivo.
+- **Complex Modeling:** Specialization in Multilevel Modeling (MLM), panel data analysis, sampling weights, and nonresponse bias sensitivity analysis. Strong experience with LASSO and related machine learning models.
+- **Workflow Automation:** Engineering reproducible "end-to-end" data pipelines (Raw Data -> Analytic Dataset -> Visualizations/Deliverables).
+- **Study Design:** Lead investigator for large-scale longitudinal studies and randomized controlled trials (RCTs), including leading designs that account for messy data collection and challenging participant retention.
 
 ---
 
