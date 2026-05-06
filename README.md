@@ -4,7 +4,8 @@
 
 Currently, I am leveraging my background in data modernization and advanced analytics as part of the team at the non-partisan policy think tank **Texas 2036**, focusing on data-driven policy solutions for the state of Texas. 
 
-My past appointments include:  Senior Director of Research and President at **Far Harbor**, Research Faculty at TAMU Public Policy Research Institute, Lecturer in the Dept of Health Policy Management at TAMU, and Sr. Research Scientist with Gibson Consulting. I also served as an affiliated researcher with the Texas Education Research Center and the Southwest Regional Education Laboratory.
+My past appointments include:  
+Senior Director of Research and President at **Far Harbor**, Research Faculty at TAMU Public Policy Research Institute, Lecturer in the Dept of Health Policy Management at TAMU, and Sr. Research Scientist with Gibson Consulting. I also served as an affiliated researcher with the Texas Education Research Center and the Southwest Regional Education Laboratory.
 
 I have about two decades of experience in **Monitoring, Evaluation, and Learning (MEL)**. My work sits at the intersection of complex statistical programming and applied policy research, with a career dedicated to building the evidence base for state and national programs and foundation funded initiatives.
 
@@ -18,7 +19,7 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 
 - **Far Harbor & Texas 2036:** Leading research strategy, statistical analysis, and data modernization and  harmonization via automation.
 - **Academic Roots:** Former Lecturer in Graduate Research Methods at **Texas A&M University** and Senior Research Associate at the Public Policy Research Institute (PPRI).
-- **Public Health & Policy:** Published in the *American Journal of Public Health* and lead author on landmark studies such as *Breaking Schools’ Rules*, a statewide analysis of school discipline that spurred legislative changes at the Federal and State level.
+- **Public Health & Education Policy Impact:** Published in the *Journal of Developmental Education*, *Party Politics*, *American Journal of Public Health* , *Journal of Applied Research on Children*, and co-author of a book from Teachers College Press, along with over 80 technical and evaluation reports, my work has impacted policy and programs in a variety of public health and education settings. My work on the school-to-prison pipeline in the CSG-sponser report *Breaking Schools’ Rules* provided statewide analysis of school discipline that spurred legislative changes at the Federal and State level (including cited as the motivating study for President Obama's 'My Brother's Keeper' initiative.
 - **Data Advocacy:** Advocate for state-level data modernization to improve machine-readability and transparency in public reporting.
 
 ---
