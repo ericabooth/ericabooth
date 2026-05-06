@@ -7,9 +7,10 @@ Currently, I am leveraging my background in data modernization and advanced anal
 My past appointments include:  
    - **Senior Director of Research** and President at Far Harbor, LLC in Austin, TX.
    - **Research Faculty** at the Texas A&M University Public Policy Research Institute (PPRI)
-   - **Lecturer** in the Department of Health Policy & Management at Texas A&M University
+   - **Lecturer** in the Department of Health Policy & Management at Texas A&M University, teaching graduate research methods and statistical programming courses
    - **Senior Research Scientist** with Gibson Consulting Group
-I also served as an affiliated researcher with the Texas Education Research Center and the Southwest Regional Education Laboratory (REL).
+   
+I also served as an affiliated researcher with the Texas Education Research Center and the Southwest Regional Education Laboratory (REL). I regularly teach workshops on applied evaluation (including AI-assisted evaluation methods and analysis), most recently at Prarie View A&M and the Texas Evaluation Network annual meeting.
 
 I have about two decades of experience in **Monitoring, Evaluation, and Learning (MEL)**. My work sits at the intersection of complex statistical programming and applied policy research, with a career dedicated to building the evidence base for state and national programs and foundation funded initiatives.
 
