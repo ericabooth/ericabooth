@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eric A. Booth
+# 👋 Eric A. Booth
 
 ### **Senior Researcher | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
 
