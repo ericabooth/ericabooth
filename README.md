@@ -47,7 +47,8 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 
 ### 📫 Connect with Me
 
-- 🌐 **Website:** [www.eric-booth.com](http://www.eric-booth.com)
-- 💼 **LinkedIn:** [Eric A. Booth](https://www.linkedin.com/in/ericabooth)
+- 🌐 **Website:** [www.eric-booth.com](https://sites.google.com/site/ericabooth/cv/mycv)
+- 💼 **LinkedIn:** [Eric A. Booth](https://www.linkedin.com/in/eric-booth-746376a)
 - 📧 **Email:** [eric.a.booth@gmail.com](mailto:eric.a.booth@gmail.com)
 - 🐦 **Statalist:** [Active Member & Contributor](https://www.statalist.org/)
+- 🏫 **Google Scholar:** [recent publications](https://scholar.google.com/citations?user=dX8xU4UAAAAJ&hl=en)
