@@ -1,6 +1,18 @@
 # 📈 Eric A. Booth 📊
 
-### **Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
+## **Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
+
+### 💻 Technical Stack
+
+![Stata](https://img.shields.io/badge/Stata-Developer-blue?style=for-the-badge&logo=stata)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 Currently, I am leveraging my background in data modernization and advanced analytics as part of the team at the non-partisan policy think tank **Texas 2036**.org, focusing on data-driven policy solutions for the state of Texas. 
 
@@ -13,18 +25,6 @@ My past appointments include:
 I also served as an affiliated researcher with the Texas Education Research Center and the Southwest Regional Education Laboratory (REL). I regularly teach workshops on applied evaluation (including AI-assisted evaluation methods and analysis), most recently at Prarie View A&M and the Texas Evaluation Network annual meeting.
 
 I have about two decades of experience in **Monitoring, Evaluation, and Learning (MEL)**. My work sits at the intersection of complex statistical programming and applied policy research, with a career dedicated to building the evidence base for state and national programs and foundation funded initiatives.
-
----
-
-### 💻 Technical Stack
-
-![Stata](https://img.shields.io/badge/Stata-Developer-blue?style=for-the-badge&logo=stata)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
