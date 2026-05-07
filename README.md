@@ -1,11 +1,11 @@
 # 👋 Eric A. Booth
 
-### **Senior Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
+### **Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
 
-Currently, I am leveraging my background in data modernization and advanced analytics as part of the team at the non-partisan policy think tank **Texas 2036**, focusing on data-driven policy solutions for the state of Texas. 
+Currently, I am leveraging my background in data modernization and advanced analytics as part of the team at the non-partisan policy think tank **Texas 2036**.org, focusing on data-driven policy solutions for the state of Texas. 
 
 My past appointments include:  
-   - **Senior Director of Research** and President at Far Harbor, LLC in Austin, TX.
+   - **Senior Director of Research** and President at Far Harbor, LLC in Austin, TX (promoted from Sr. Statistician in 2020)
    - **Research Faculty** at the Texas A&M University Public Policy Research Institute (PPRI)
    - **Lecturer** in the Department of Health Policy & Management at Texas A&M University, teaching graduate research methods and statistical programming courses
    - **Senior Research Scientist** with Gibson Consulting Group
