@@ -2,8 +2,6 @@
 
 ## **Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
 
-### 💻 Technical Stack
-
 ![Stata](https://img.shields.io/badge/Stata-Developer-blue?style=for-the-badge&logo=stata)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
