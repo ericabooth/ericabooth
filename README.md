@@ -1,6 +1,6 @@
 # 👋 Eric A. Booth
 
-### **Senior Researcher | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
+### **Senior Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
 
 Currently, I am leveraging my background in data modernization and advanced analytics as part of the team at the non-partisan policy think tank **Texas 2036**, focusing on data-driven policy solutions for the state of Texas. 
 
