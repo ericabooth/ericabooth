@@ -1,4 +1,4 @@
-# 📈 Eric A. Booth 📊
+# 📈  Eric A. Booth  📊
 
 ## **Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
 
@@ -9,8 +9,6 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
 
 Currently, I am leveraging my background in data modernization and advanced analytics as part of the team at the non-partisan policy think tank **Texas 2036**.org, focusing on data-driven policy solutions for the state of Texas. 
 
