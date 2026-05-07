@@ -1,4 +1,4 @@
-# 👋 Eric A. Booth
+# 📈 Eric A. Booth 📊
 
 ### **Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer (Expertise: Stata)**
 
