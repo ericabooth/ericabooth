@@ -3,12 +3,12 @@
 ## **Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer**
 _Alchemizing ☕ coffee into Stata code_
 
-![Stata](https://img.shields.io/badge/Stata-Developer-blue?style=for-the-badge&logo=stata)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Stata](https://img.shields.io/badge/Stata-red?style=for-the-badge&logo=stata&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Perl](https://img.shields.io/badge/perl-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Currently, I am leveraging my background in data modernization and advanced analytics as part of the team at the non-partisan policy think tank **Texas 2036**.org, focusing on data-driven policy solutions for the state of Texas. 
