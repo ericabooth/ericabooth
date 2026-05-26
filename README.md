@@ -49,3 +49,7 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 - 📧 **Email:** [eric.a.booth@gmail.com](mailto:eric.a.booth@gmail.com)
 - 🐦 **Statalist:** [Active Member & Contributor](https://www.statalist.org/)
 - 🏫 **Google Scholar:** [recent publications](https://scholar.google.com/citations?user=dX8xU4UAAAAJ&hl=en)
+
+## Recent Github Sites examples for Stata packages include:
+- [Webdoc2 for Stata](https://ericabooth.github.io/Webdoc2_Example_Site/)
+- [StataShiny (RShiny for Stata](https://ericabooth.github.io/StataShiny_Example_Site/)
