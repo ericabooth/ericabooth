@@ -51,5 +51,6 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 - 🏫 **Google Scholar:** [recent publications](https://scholar.google.com/citations?user=dX8xU4UAAAAJ&hl=en)
 
 ## Recent Github Sites examples for Stata packages include:
-- [Webdoc2 for Stata](https://ericabooth.github.io/Webdoc2_Example_Site/) (interactive websites generated from Stata do-files)
-- [StataShiny](https://ericabooth.github.io/StataShiny_Example_Site/) (RShiny-like package for simulations, interactive viz, and web tables for Stata)
+- [Webdoc2 for Stata](https://ericabooth.github.io/Webdoc2_Example_Site/) (interactive websites generated from Stata do-files as -webdoc- wrapper)
+- [Sparkta2 Interactive Maps for Stata ](https://ericabooth.github.io/Sparkta2_Example_Site/) (Interactive Mapping Wrapper added to -Sparkta- for Stata)
+- - [StataShiny](https://ericabooth.github.io/StataShiny_Example_Site/) (RShiny-like package for simulations, interactive viz, and web tables for Stata)
