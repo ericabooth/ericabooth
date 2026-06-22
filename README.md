@@ -21,7 +21,7 @@ My past appointments include:
    - **Lecturer** in the Department of Health Policy & Management at Texas A&M University, teaching graduate research methods and statistical programming courses
    - **Senior Research Scientist** with Gibson Consulting Group
    
-I also served as an affiliated researcher with the Texas Education Research Center and the Southwest Regional Education Laboratory (REL). I regularly teach workshops on applied evaluation (including AI-assisted evaluation methods and analysis), most recently at Prarie View A&M and the Texas Evaluation Network annual meeting.
+I also served as an affiliated researcher with the Texas Education Research Center and the Southwest Regional Education Laboratory (REL). I regularly teach workshops on applied evaluation (including AI-assisted methods for applied evaluations), most recently at Prarie View A&M NSF-funded 'Research In Excellence' workshop and the Texas Evaluation Network annual meeting.
 
 ---
 
