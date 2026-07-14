@@ -56,3 +56,4 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 - [Sparkta2 Interactive Maps for Stata ](https://ericabooth.github.io/Sparkta2_Example_Site/) (Interactive Mapping Wrapper added to -Sparkta- for Stata)
 - [StataShiny](https://ericabooth.github.io/StataShiny_Example_Site/) (RShiny-like package for simulations, interactive viz, and web tables for Stata)
 - [GoogleCharts for Stata](https://ericabooth.github.io/GoogleChart_Example_Site/) (interactive Google Charts and Sheets interface for Stata)
+- - [DashboardBuilder for Stata](https://ericabooth.github.io/dashboardbuilder_Example_Site/) (Build HTML/JS (mostly) codeless Dashboards/Sites form Stata do-files (also wraps -webdoc2-, -sparkta2-, and -statashiny- outputs)
