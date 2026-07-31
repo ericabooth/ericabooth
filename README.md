@@ -49,7 +49,7 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 - 📧 **Email:** [eric.a.booth@gmail.com](mailto:eric.a.booth@gmail.com)
 - 🐦 **Statalist:** [Active Member & Contributor](https://www.statalist.org/)
 - 🏫 **Google Scholar:** [recent publications](https://scholar.google.com/citations?user=dX8xU4UAAAAJ&hl=en)
-
+- 💼 **RePec / SSC Contributions** [](https://econpapers.repec.org/RAS/pbo536.htm#author-software)
 
 ## Recent Github Sites example galleries for Stata packages include:
 - [Webdoc2 for Stata](https://ericabooth.github.io/Webdoc2_Example_Site/) (interactive websites generated from Stata do-files as -webdoc- wrapper)
