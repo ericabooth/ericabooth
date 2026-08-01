@@ -50,7 +50,7 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 - 🐦 **Statalist:** [Active Member & Contributor](https://www.statalist.org/)
 - 🏫 **Google Scholar:** [recent publications](https://scholar.google.com/citations?user=dX8xU4UAAAAJ&hl=en)
 - 💼 **RePec / SSC Contributions** [recent software and papers](https://econpapers.repec.org/RAS/pbo536.htm#author-software)
-- 📖 **ORCHID [https://orcid.org/0000-0001-9607-5979](https://link.lens.org/9vjIlLBq55d)
+- 📖 **ORCHID** [https://orcid.org/0000-0001-9607-5979](https://link.lens.org/9vjIlLBq55d)
 ## Recent Github Sites example galleries for Stata packages include:
 - [Webdoc2 for Stata](https://ericabooth.github.io/Webdoc2_Example_Site/) (interactive websites generated from Stata do-files as -webdoc- wrapper)
 - [Sparkta2 Interactive Maps for Stata ](https://ericabooth.github.io/Sparkta2_Example_Site/) (Interactive Mapping Wrapper added to -Sparkta- for Stata)
