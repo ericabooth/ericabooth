@@ -1,7 +1,7 @@
 # 📈  Eric A. Booth  📊
 
 ## **Researcher | Data Analyst | Evaluation Specialist | Statistical Programmer**
-_Alchemizing ☕ coffee into Stata code_
+_Alchemizing ☕ caffeine into Stata code_
 
 ![Stata](https://img.shields.io/badge/Stata-red?style=for-the-badge&logo=stata&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
