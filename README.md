@@ -54,6 +54,8 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 - **OSF** [https://osf.io/2n4k7/](https://osf.io/2n4k7/)
 
 ## Some of my recent Github Sites example / demonstration galleries include:
+- [**Code portfolio**](https://ericabooth.github.io/code-portfolio/) (every tool I've built, searchable by the problem it solves &mdash; opens on a scrolling gallery of what the packages actually make)
+- [mergemap gallery](https://ericabooth.github.io/code-portfolio/galleries/mergemap/) (every output of -mergemap- for Stata on one worked example: the receipt, the map as SMCL / HTML / PNG / mermaid / DOT, and run mode with the observed counts)
 - [Webdoc2 for Stata](https://ericabooth.github.io/Webdoc2_Example_Site/) (interactive websites generated from Stata do-files as -webdoc- wrapper)
 - [Sparkta2 Interactive Maps for Stata ](https://ericabooth.github.io/Sparkta2_Example_Site/) (Interactive Mapping Wrapper added to -Sparkta- for Stata)
 - [StataShiny](https://ericabooth.github.io/StataShiny_Example_Site/) (RShiny-like package for simulations, interactive viz, and web tables for Stata)
