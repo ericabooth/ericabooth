@@ -50,14 +50,19 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 - 🐦 **Statalist:** [Active Member & Contributor](https://www.statalist.org/)
 - 🏫 **Google Scholar:** [recent publications](https://scholar.google.com/citations?user=dX8xU4UAAAAJ&hl=en)
 - 💼 **RePec / SSC Contributions** [recent software and papers](https://econpapers.repec.org/RAS/pbo536.htm#author-software)
-- 📖 **ORCHID** [https://orcid.org/0000-0001-9607-5979](https://link.lens.org/9vjIlLBq55d)
+- 📖 **ORCID** [https://orcid.org/0000-0001-9607-5979](https://orcid.org/0000-0001-9607-5979)
 - **OSF** [https://osf.io/2n4k7/](https://osf.io/2n4k7/)
 
-## Some of my recent Github Sites example / demonstration galleries include:
-- [**Code portfolio**](https://ericabooth.github.io/code-portfolio/) (every tool I've built, searchable by the problem it solves, with a scrolling gallery of what ten of the packages produce)
-- [mergemap gallery](https://ericabooth.github.io/code-portfolio/galleries/mergemap/) (every output of -mergemap- for Stata on one worked example: the receipt, the map as SMCL / HTML / PNG / mermaid / DOT, and run mode with the observed counts)
-- [Webdoc2 for Stata](https://ericabooth.github.io/Webdoc2_Example_Site/) (interactive websites generated from Stata do-files as -webdoc- wrapper)
-- [Sparkta2 Interactive Maps for Stata ](https://ericabooth.github.io/Sparkta2_Example_Site/) (Interactive Mapping Wrapper added to -Sparkta- for Stata)
-- [StataShiny](https://ericabooth.github.io/StataShiny_Example_Site/) (RShiny-like package for simulations, interactive viz, and web tables for Stata)
-- [GoogleCharts for Stata](https://ericabooth.github.io/GoogleChart_Example_Site/) (interactive Google Charts and Sheets interface for Stata)
-- [DashboardBuilder for Stata](https://ericabooth.github.io/dashboardbuilder_Example_Site/) (Build HTML/JS (mostly) codeless Dashboards/Sites form Stata do-files (also wraps -webdoc2-, -sparkta2-, and -statashiny- outputs)
+### 🧪 Example galleries &amp; demo sites
+
+Start at the [**code portfolio**](https://ericabooth.github.io/code-portfolio/) — every tool, searchable by the problem it solves, with a gallery of what ten of the packages produce. The per-package galleries and demo sites:
+
+| Gallery | What it shows |
+|---|---|
+| [mergemap](https://ericabooth.github.io/code-portfolio/galleries/mergemap/) | Every `mergemap` output on one worked example: the receipt, the map as SMCL / HTML / PNG / mermaid / DOT, and run mode with observed counts |
+| [surveymap](https://ericabooth.github.io/code-portfolio/galleries/surveymap/) | Survey flow maps and response braids: who was asked, who answered, and who the instrument routed around |
+| [Webdoc2](https://ericabooth.github.io/Webdoc2_Example_Site/) | Interactive websites generated from Stata do-files |
+| [Sparkta2](https://ericabooth.github.io/Sparkta2_Example_Site/) | Interactive small-multiple and county maps from Stata |
+| [StataShiny](https://ericabooth.github.io/StataShiny_Example_Site/) | Simulations, interactive visualizations, and web tables written from Stata |
+| [GoogleChart](https://ericabooth.github.io/GoogleChart_Example_Site/) | Google Charts and Google Sheets driven from Stata |
+| [DashboardBuilder](https://ericabooth.github.io/dashboardbuilder_Example_Site/) | HTML/JS dashboards built from do-files; embeds webdoc2, sparkta2, and statashiny output |
