@@ -55,12 +55,12 @@ My career has focused on designing and executing high-stakes evaluations in **Ed
 
 ### 🧪 Example galleries &amp; demo sites
 
-Start at the [**code portfolio**](https://ericabooth.github.io/code-portfolio/) — every tool, searchable by the problem it solves, with a gallery of what ten of the packages produce. The per-package galleries and demo sites:
+Start at the [**code portfolio**](https://ericabooth.github.io/code-portfolio/): every tool, searchable by the problem it solves, with a gallery of what ten of the packages produce. The per-package galleries and demo sites:
 
 | Gallery | What it shows |
 |---|---|
-| [mergemap](https://ericabooth.github.io/code-portfolio/galleries/mergemap/) | Every `mergemap` output on one worked example: the receipt, the map as SMCL / HTML / PNG / mermaid / DOT, and run mode with observed counts |
-| [surveymap](https://ericabooth.github.io/code-portfolio/galleries/surveymap/) | Survey flow maps and response braids: who was asked, who answered, and who the instrument routed around |
+| [mergemap](https://ericabooth.github.io/code-portfolio/galleries/mergemap/) | Every `mergemap` output from one fake pipeline: the receipt, the map as SMCL / HTML / PNG / mermaid / DOT, and run mode with observed counts |
+| [surveymap](https://ericabooth.github.io/code-portfolio/galleries/surveymap/) | Survey flow maps and response braids, with answers, refusals, and skip-logic skips counted separately |
 | [Webdoc2](https://ericabooth.github.io/Webdoc2_Example_Site/) | Interactive websites generated from Stata do-files |
 | [Sparkta2](https://ericabooth.github.io/Sparkta2_Example_Site/) | Interactive small-multiple and county maps from Stata |
 | [StataShiny](https://ericabooth.github.io/StataShiny_Example_Site/) | Simulations, interactive visualizations, and web tables written from Stata |
