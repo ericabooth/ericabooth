@@ -85,18 +85,7 @@ searchable by the problem it solves, with a gallery of what ten of the packages 
   </tr>
 </table>
 
-### Packages
-
-**Recent work**
-
-| Package | What it does | Install |
-|---|---|---|
-| `mergemap` <sub>v0.5.6</sub> | Maps every join in a do-file and what each did to the row count | [GitHub](https://github.com/ericabooth/mergemap-stata-public) |
-| `surveymap` <sub>v0.8.4</sub> | Survey flow maps that count answers, refusals and skips separately | [GitHub](https://github.com/ericabooth/surveymap-stata-public) |
-| `datadeposit` <sub>v0.1.1</sub> | Archive-ready copies of a dataset for Stata, R and Python in one step | [GitHub](https://github.com/ericabooth/datadeposit) |
-| `peerpick` <sub>v0.1.2</sub> | Picks a comparison group for one unit, then tests how much it mattered | [GitHub](https://github.com/ericabooth/peerpick-stata-public) |
-| `ercotapi` <sub>v1.0.2</sub> | Pulls ERCOT grid data — prices, load, generation — straight into Stata | [GitHub](https://github.com/ericabooth/ercotapi-stata-public) |
-| `sparkta2` <sub>v0.8.13</sub> | Interactive small-multiple and county maps, charts and dashboards | [GitHub](https://github.com/ericabooth/sparkta2-stata-public) |
+### Recent packages
 
 **Build &amp; publish**
 
@@ -104,22 +93,33 @@ searchable by the problem it solves, with a gallery of what ten of the packages 
 |---|---|---|
 | `dashboardbuilder` <sub>v1.3.4</sub> | Self-contained interactive HTML dashboards, written from a do-file | `ssc install dashboardbuilder` |
 | `statashiny` <sub>v1.5.4</sub> | Shiny-style widgets that recompute in the browser | `ssc install statashiny` |
+| `sparkta2` <sub>v0.8.13</sub> | Interactive small-multiple and county maps, charts and dashboards | [GitHub](https://github.com/ericabooth/sparkta2-stata-public) |
 | `webdoc2` <sub>v1.1.6</sub> | Turns the do-file that made the numbers into the page that reports them | [GitHub](https://github.com/ericabooth/webdoc2-stata-public) |
 | `googlechart` <sub>v0.1.7</sub> | Google Charts and dashboards driven straight from Stata | `ssc install googlechart` |
 | `statplot` <sub>v1.3.0</sub> | Plots of summary statistics, by category *(with Nicholas J. Cox)* | `ssc install statplot` |
 
-**Data plumbing &amp; workflow**
+**Analyze, inspect &amp; document**
 
 | Package | What it does | Install |
 |---|---|---|
-| `googlesheets` <sub>v0.1.7</sub> | Read, write and format Google Sheets without leaving Stata | `ssc install googlesheets` |
-| `webapi` <sub>v0.1.4</sub> | Fetches an authenticated JSON web API into Stata as a dataset | `ssc install webapi` |
+| `peerpick` <sub>v0.1.2</sub> | Picks a comparison group for one unit, then tests how much it mattered | [GitHub](https://github.com/ericabooth/peerpick-stata-public) |
+| `mergemap` <sub>v0.5.6</sub> | Maps every join in a do-file and what each did to the row count | [GitHub](https://github.com/ericabooth/mergemap-stata-public) |
+| `surveymap` <sub>v0.8.4</sub> | Survey flow maps that count answers, refusals and skips separately | [GitHub](https://github.com/ericabooth/surveymap-stata-public) |
 | `datadictionary` <sub>v1.0.2</sub> | Over-time-ready codebooks across survey waves | `ssc install datadictionary` |
-| `reshapehelper` <sub>v1.0.1</sub> | Diagnoses the data and suggests the reshape before you run it | `ssc install reshapehelper` |
 | `srctag` <sub>v2.0.1</sub> | Stamps variables with source lineage, then searches that provenance | [GitHub](https://github.com/ericabooth/srctag-stata-public) |
+| `reshapehelper` <sub>v1.0.1</sub> | Diagnoses the data and suggests the reshape before you run it | `ssc install reshapehelper` |
+
+**Pull, package &amp; share**
+
+| Package | What it does | Install |
+|---|---|---|
+| `ercotapi` <sub>v1.0.2</sub> | Pulls ERCOT grid data — prices, load, generation — straight into Stata | [GitHub](https://github.com/ericabooth/ercotapi-stata-public) |
+| `webapi` <sub>v0.1.4</sub> | Fetches an authenticated JSON web API into Stata as a dataset | `ssc install webapi` |
+| `googlesheets` <sub>v0.1.7</sub> | Read, write and format Google Sheets without leaving Stata | `ssc install googlesheets` |
+| `datadeposit` <sub>v0.1.1</sub> | Archive-ready copies of a dataset for Stata, R and Python in one step | [GitHub](https://github.com/ericabooth/datadeposit) |
 | `projectbuilder` <sub>v2.1.2</sub> | Scaffolds a project folder with a numbered do-file pipeline | `ssc install projectbuilder` |
 
-<sub>Version numbers are current as of the latest release; the full set lives in the <a href="https://ericabooth.github.io/code-portfolio/">code portfolio</a>.</sub>
+<sub>Actively maintained, with the current version shown; the full set lives in the <a href="https://ericabooth.github.io/code-portfolio/">code portfolio</a>.</sub>
 
 
 
