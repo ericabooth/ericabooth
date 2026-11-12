@@ -37,6 +37,54 @@ the tooling that makes that work reproducible. Currently at the non-partisan pol
 **[→ The code portfolio](https://ericabooth.github.io/code-portfolio/)** — every tool I maintain,
 searchable by the problem it solves, with a gallery of what ten of the packages actually produce.
 
+### Demos &amp; galleries
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/code-portfolio/galleries/mergemap/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/mergemap-run.png" width="100%" alt="mergemap"></a><br>
+      <a href="https://ericabooth.github.io/code-portfolio/galleries/mergemap/"><b>mergemap</b></a><br>
+      <sub>every join, mapped</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/code-portfolio/galleries/surveymap/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/surveymap-flow.png" width="100%" alt="surveymap"></a><br>
+      <a href="https://ericabooth.github.io/code-portfolio/galleries/surveymap/"><b>surveymap</b></a><br>
+      <sub>survey flow &amp; skips</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/Sparkta2_Example_Site/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/sparkta2-county-map.png" width="100%" alt="Sparkta2"></a><br>
+      <a href="https://ericabooth.github.io/Sparkta2_Example_Site/"><b>Sparkta2</b></a><br>
+      <sub>interactive Texas maps</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/dashboardbuilder_Example_Site/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/dashboardbuilder-explorer.png" width="100%" alt="DashboardBuilder"></a><br>
+      <a href="https://ericabooth.github.io/dashboardbuilder_Example_Site/"><b>DashboardBuilder</b></a><br>
+      <sub>HTML/JS dashboards</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/StataShiny_Example_Site/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/statashiny-widgets.png" width="100%" alt="StataShiny"></a><br>
+      <a href="https://ericabooth.github.io/StataShiny_Example_Site/"><b>StataShiny</b></a><br>
+      <sub>widgets in the browser</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/Webdoc2_Example_Site/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/webdoc2-report.png" width="100%" alt="Webdoc2"></a><br>
+      <a href="https://ericabooth.github.io/Webdoc2_Example_Site/"><b>Webdoc2</b></a><br>
+      <sub>do-file &rarr; website</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/GoogleChart_Example_Site/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/googlechart-choropleth.png" width="100%" alt="GoogleChart"></a><br>
+      <a href="https://ericabooth.github.io/GoogleChart_Example_Site/"><b>GoogleChart</b></a><br>
+      <sub>Google Charts from Stata</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/code-portfolio/#gallery"><b>All 10 outputs &rarr;</b></a><br>
+      <sub>every package, and what it produces</sub>
+    </td>
+  </tr>
+</table>
+
 ### Packages
 
 **Recent work**
@@ -74,22 +122,6 @@ searchable by the problem it solves, with a gallery of what ten of the packages 
 <sub>Version numbers are current as of the latest release; the full set lives in the <a href="https://ericabooth.github.io/code-portfolio/">code portfolio</a>.</sub>
 
 
-<details>
-<summary><b>Demo sites &amp; galleries</b></summary>
-
-<br>
-
-| Gallery | What it shows |
-|---|---|
-| [mergemap](https://ericabooth.github.io/code-portfolio/galleries/mergemap/) | Every `mergemap` output from one pipeline: the receipt, the map as SMCL / HTML / PNG / mermaid / DOT, and run mode with observed counts |
-| [surveymap](https://ericabooth.github.io/code-portfolio/galleries/surveymap/) | Survey flow maps and response braids, with answers, refusals and skips counted separately |
-| [Webdoc2](https://ericabooth.github.io/Webdoc2_Example_Site/) | Interactive websites generated from Stata do-files |
-| [Sparkta2](https://ericabooth.github.io/Sparkta2_Example_Site/) | Interactive small-multiple and county maps from Stata |
-| [StataShiny](https://ericabooth.github.io/StataShiny_Example_Site/) | Simulations, interactive visualizations and web tables written from Stata |
-| [GoogleChart](https://ericabooth.github.io/GoogleChart_Example_Site/) | Google Charts and Google Sheets driven from Stata |
-| [DashboardBuilder](https://ericabooth.github.io/dashboardbuilder_Example_Site/) | HTML/JS dashboards built from do-files; embeds webdoc2, sparkta2 and statashiny output |
-
-</details>
 
 <details>
 <summary><b>Background &amp; expertise</b></summary>
