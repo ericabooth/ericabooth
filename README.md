@@ -31,56 +31,48 @@ foundation-funded programs in **education, behavioral health and juvenile justic
 the tooling that makes that work reproducible. Currently at the non-partisan policy think tank
 **Texas 2036**, on data-driven policy for the state.
 
-### One toolkit, end to end
-
-```mermaid
-flowchart LR
-  A["<b>Ingest</b><br/>ercotapi · scrapers"] --> B["<b>Build</b><br/>combineall · reshapehelper"]
-  B --> C["<b>Verify joins</b><br/>mergemap"]
-  C --> D["<b>Document</b><br/>datadictionary · srctag"]
-  D --> E["<b>Deliver</b><br/>dashboardbuilder · statashiny"]
-  E --> F["<b>Archive</b><br/>datadeposit"]
-```
-
-<sub>Diagrams like this are what <code>mergemap</code> emits for a real pipeline &mdash; as mermaid, SMCL, HTML, PNG or DOT.</sub>
 
 ### Start here
 
 **[→ The code portfolio](https://ericabooth.github.io/code-portfolio/)** — every tool I maintain,
 searchable by the problem it solves, with a gallery of what ten of the packages actually produce.
 
-### A few of the packages
+### Packages
+
+**Recent work**
 
 | Package | What it does | Install |
 |---|---|---|
-| `mergemap` | Maps every join in a do-file and what each one did to the row count | [GitHub](https://github.com/ericabooth/mergemap-stata-public) |
-| `surveymap` | Survey flow maps that count answers, refusals and skip-logic skips separately | [GitHub](https://github.com/ericabooth/surveymap-stata-public) |
-| `datadeposit` | Archive-ready copies of a dataset for Stata, R and Python in one step | [GitHub](https://github.com/ericabooth/datadeposit) |
-| `peerpick` | Picks a comparison group for one unit, then tests how much that choice mattered | [GitHub](https://github.com/ericabooth/peerpick-stata-public) |
-| `dashboardbuilder` | Self-contained interactive HTML dashboards, written from a do-file | `ssc install dashboardbuilder` |
-| `statashiny` | Shiny-style widgets that recompute in the browser | `ssc install statashiny` |
-| `googlesheets` | Read, write and format Google Sheets without leaving Stata | `ssc install googlesheets` |
-| `statplot` | Plots of summary statistics, by category *(with Nicholas J. Cox)* | `ssc install statplot` |
+| `mergemap` <sub>v0.5.6</sub> | Maps every join in a do-file and what each did to the row count | [GitHub](https://github.com/ericabooth/mergemap-stata-public) |
+| `surveymap` <sub>v0.8.4</sub> | Survey flow maps that count answers, refusals and skips separately | [GitHub](https://github.com/ericabooth/surveymap-stata-public) |
+| `datadeposit` <sub>v0.1.1</sub> | Archive-ready copies of a dataset for Stata, R and Python in one step | [GitHub](https://github.com/ericabooth/datadeposit) |
+| `peerpick` <sub>v0.1.2</sub> | Picks a comparison group for one unit, then tests how much it mattered | [GitHub](https://github.com/ericabooth/peerpick-stata-public) |
+| `ercotapi` <sub>v1.0.2</sub> | Pulls ERCOT grid data — prices, load, generation — straight into Stata | [GitHub](https://github.com/ericabooth/ercotapi-stata-public) |
+| `sparkta2` <sub>v0.8.13</sub> | Interactive small-multiple and county maps, charts and dashboards | [GitHub](https://github.com/ericabooth/sparkta2-stata-public) |
 
-<details>
-<summary><b>See it in use</b></summary>
+**Build &amp; publish**
 
-<br>
+| Package | What it does | Install |
+|---|---|---|
+| `dashboardbuilder` <sub>v1.3.4</sub> | Self-contained interactive HTML dashboards, written from a do-file | `ssc install dashboardbuilder` |
+| `statashiny` <sub>v1.5.4</sub> | Shiny-style widgets that recompute in the browser | `ssc install statashiny` |
+| `webdoc2` <sub>v1.1.6</sub> | Turns the do-file that made the numbers into the page that reports them | [GitHub](https://github.com/ericabooth/webdoc2-stata-public) |
+| `googlechart` <sub>v0.1.7</sub> | Google Charts and dashboards driven straight from Stata | `ssc install googlechart` |
+| `statplot` <sub>v1.3.0</sub> | Plots of summary statistics, by category *(with Nicholas J. Cox)* | `ssc install statplot` |
 
-```stata
-* map every join across a pipeline, run it, and report what each one did to N
-mergemap run 01_clean.do 02_merge.do 03_analyze.do
+**Data plumbing &amp; workflow**
 
-* build a self-contained interactive dashboard from the do-file itself
-dashboardbuilder init  , title("State explorer") selector(state) refvalue("United States")
-dashboardbuilder panel kpi , values(pop medage) title("Headline numbers")
-dashboardbuilder build using "state_explorer.html", replace pdf truepdf
+| Package | What it does | Install |
+|---|---|---|
+| `googlesheets` <sub>v0.1.7</sub> | Read, write and format Google Sheets without leaving Stata | `ssc install googlesheets` |
+| `webapi` <sub>v0.1.4</sub> | Fetches an authenticated JSON web API into Stata as a dataset | `ssc install webapi` |
+| `datadictionary` <sub>v1.0.2</sub> | Over-time-ready codebooks across survey waves | `ssc install datadictionary` |
+| `reshapehelper` <sub>v1.0.1</sub> | Diagnoses the data and suggests the reshape before you run it | `ssc install reshapehelper` |
+| `srctag` <sub>v2.0.1</sub> | Stamps variables with source lineage, then searches that provenance | [GitHub](https://github.com/ericabooth/srctag-stata-public) |
+| `projectbuilder` <sub>v2.1.2</sub> | Scaffolds a project folder with a numbered do-file pipeline | `ssc install projectbuilder` |
 
-* hand off an archive-ready copy that opens in Stata, R or Python
-datadeposit, to(survey_deposit) title("Spring 2026 resident survey") replace
-```
+<sub>Version numbers are current as of the latest release; the full set lives in the <a href="https://ericabooth.github.io/code-portfolio/">code portfolio</a>.</sub>
 
-</details>
 
 <details>
 <summary><b>Demo sites &amp; galleries</b></summary>
@@ -135,15 +127,10 @@ machine-readability and transparency in public reporting.
 
 </details>
 
-<details>
-<summary><b>Elsewhere</b></summary>
-
-<br>
+---
 
 - **Website:** [www.eric-booth.com](https://sites.google.com/site/ericabooth/cv/mycv)
 - **Email:** [eric.a.booth@gmail.com](mailto:eric.a.booth@gmail.com)
 - **RePEc / SSC:** [software and papers](https://econpapers.repec.org/RAS/pbo536.htm#author-software)
 - **OSF:** [osf.io/2n4k7](https://osf.io/2n4k7/)
 - **Statalist:** [active member and contributor](https://www.statalist.org/)
-
-</details>
