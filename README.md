@@ -79,8 +79,8 @@ searchable by the problem it solves, with a gallery of what ten of the packages 
       <sub>Google Charts from Stata</sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://ericabooth.github.io/code-portfolio/#gallery"><b>All 10 outputs &rarr;</b></a><br>
-      <sub>every package, and what it produces</sub>
+      <a href="https://ericabooth.github.io/code-portfolio/#gallery"><b>Additional galleries &rarr;</b></a><br>
+      <sub>more outputs in the code portfolio</sub>
     </td>
   </tr>
 </table>
