@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ericabooth.github.io/code-portfolio/"><img alt="Code portfolio" src="https://img.shields.io/badge/code%20portfolio-48%20commands-0b6b6b?style=flat-square"></a>
+  <a href="https://ericabooth.github.io/code-portfolio/"><img alt="Code portfolio" src="https://img.shields.io/badge/code%20portfolio-79%20commands-0b6b6b?style=flat-square"></a>
   <a href="https://econpapers.repec.org/RAS/pbo536.htm#author-software"><img alt="SSC" src="https://img.shields.io/badge/SSC%20archive-25%20modules-8a6a1f?style=flat-square"></a>
   <a href="https://scholar.google.com/citations?user=dX8xU4UAAAAJ&hl=en"><img alt="Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
   <a href="https://orcid.org/0000-0001-9607-5979"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
@@ -42,11 +42,6 @@ searchable by the problem it solves, with a gallery of what eleven of the packag
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://ericabooth.github.io/gpolish-stata-public/gallery/"><img src="https://ericabooth.github.io/gpolish-stata-public/images/thumb.png" width="100%" alt="gpolish"></a><br>
-      <a href="https://ericabooth.github.io/gpolish-stata-public/gallery/"><b>gpolish</b></a><br>
-      <sub>polished Stata graphs</sub>
-    </td>
-    <td align="center" width="25%">
       <a href="https://ericabooth.github.io/code-portfolio/galleries/mergemap/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/mergemap-run.png" width="100%" alt="mergemap"></a><br>
       <a href="https://ericabooth.github.io/code-portfolio/galleries/mergemap/"><b>mergemap</b></a><br>
       <sub>every join, mapped</sub>
@@ -55,6 +50,11 @@ searchable by the problem it solves, with a gallery of what eleven of the packag
       <a href="https://ericabooth.github.io/code-portfolio/galleries/surveymap/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/surveymap-flow.png" width="100%" alt="surveymap"></a><br>
       <a href="https://ericabooth.github.io/code-portfolio/galleries/surveymap/"><b>surveymap</b></a><br>
       <sub>survey flow &amp; skips</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/gpolish-stata-public/gallery/"><img src="https://ericabooth.github.io/gpolish-stata-public/images/thumb.png" width="100%" alt="gpolish"></a><br>
+      <a href="https://ericabooth.github.io/gpolish-stata-public/gallery/"><b>gpolish</b></a><br>
+      <sub>polished Stata graphs</sub>
     </td>
     <td align="center" width="25%">
       <a href="https://ericabooth.github.io/Sparkta2_Example_Site/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/sparkta2-county-map.png" width="100%" alt="Sparkta2"></a><br>
