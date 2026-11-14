@@ -35,7 +35,7 @@ the tooling that makes that work reproducible. Currently at the non-partisan pol
 ### Start here
 
 **[→ The code portfolio](https://ericabooth.github.io/code-portfolio/)** — every tool I maintain,
-searchable by the problem it solves, with a gallery of what ten of the packages actually produce.
+searchable by the problem it solves, with a gallery of what eleven of the packages actually produce.
 
 ### Demos &amp; galleries
 
