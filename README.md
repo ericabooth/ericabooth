@@ -42,6 +42,11 @@ searchable by the problem it solves, with a gallery of what ten of the packages 
 <table>
   <tr>
     <td align="center" width="25%">
+      <a href="https://ericabooth.github.io/gpolish-stata-public/gallery/"><img src="https://ericabooth.github.io/gpolish-stata-public/images/thumb.png" width="100%" alt="gpolish"></a><br>
+      <a href="https://ericabooth.github.io/gpolish-stata-public/gallery/"><b>gpolish</b></a><br>
+      <sub>polished Stata graphs</sub>
+    </td>
+    <td align="center" width="25%">
       <a href="https://ericabooth.github.io/code-portfolio/galleries/mergemap/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/mergemap-run.png" width="100%" alt="mergemap"></a><br>
       <a href="https://ericabooth.github.io/code-portfolio/galleries/mergemap/"><b>mergemap</b></a><br>
       <sub>every join, mapped</sub>
@@ -56,13 +61,13 @@ searchable by the problem it solves, with a gallery of what ten of the packages 
       <a href="https://ericabooth.github.io/Sparkta2_Example_Site/"><b>Sparkta2</b></a><br>
       <sub>interactive Texas maps</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="https://ericabooth.github.io/dashboardbuilder_Example_Site/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/dashboardbuilder-explorer.png" width="100%" alt="DashboardBuilder"></a><br>
       <a href="https://ericabooth.github.io/dashboardbuilder_Example_Site/"><b>DashboardBuilder</b></a><br>
       <sub>HTML/JS dashboards</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="25%">
       <a href="https://ericabooth.github.io/StataShiny_Example_Site/"><img src="https://ericabooth.github.io/code-portfolio/gallery/thumbs/statashiny-widgets.png" width="100%" alt="StataShiny"></a><br>
       <a href="https://ericabooth.github.io/StataShiny_Example_Site/"><b>StataShiny</b></a><br>
@@ -78,6 +83,8 @@ searchable by the problem it solves, with a gallery of what ten of the packages 
       <a href="https://ericabooth.github.io/GoogleChart_Example_Site/"><b>GoogleChart</b></a><br>
       <sub>Google Charts from Stata</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="25%">
       <a href="https://ericabooth.github.io/code-portfolio/#gallery"><b>Additional galleries &rarr;</b></a><br>
       <sub>more outputs in the code portfolio</sub>
@@ -97,6 +104,7 @@ searchable by the problem it solves, with a gallery of what ten of the packages 
 | `webdoc2` <sub>v1.1.6</sub> | Turns the do-file that made the numbers into the page that reports them | [GitHub](https://github.com/ericabooth/webdoc2-stata-public) |
 | `googlechart` <sub>v0.1.7</sub> | Google Charts and dashboards driven straight from Stata | `ssc install googlechart` |
 | `statplot` <sub>v1.3.0</sub> | Plots of summary statistics, by category *(with Nicholas J. Cox)* | `ssc install statplot` |
+| `gpolish` <sub>v0.4.0</sub> | Publication-style Stata graphs: direct labels, callouts and an optional matplotlib render | [GitHub](https://github.com/ericabooth/gpolish-stata-public) |
 
 **Analyze, inspect &amp; document**
 
@@ -164,5 +172,5 @@ machine-readability and transparency in public reporting.
 - **Website:** [www.eric-booth.com](https://sites.google.com/site/ericabooth/cv/mycv)
 - **Email:** [eric.a.booth@gmail.com](mailto:eric.a.booth@gmail.com)
 - **RePEc / SSC:** [software and papers](https://econpapers.repec.org/RAS/pbo536.htm#author-software)
-- **OSF:** [osf.io/2n4k7](https://osf.io/2n4k7/)
+<!-- - **OSF:** [osf.io/2n4k7](https://osf.io/2n4k7/) -->
 - **Statalist:** [active member and contributor](https://www.statalist.org/)
