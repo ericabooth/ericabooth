@@ -104,7 +104,7 @@ searchable by the problem it solves, with a gallery of what eleven of the packag
 | `webdoc2` <sub>v1.1.6</sub> | Turns the do-file that made the numbers into the page that reports them | [GitHub](https://github.com/ericabooth/webdoc2-stata-public) |
 | `googlechart` <sub>v0.1.7</sub> | Google Charts and dashboards driven straight from Stata | `ssc install googlechart` |
 | `statplot` <sub>v1.3.0</sub> | Plots of summary statistics, by category *(with Nicholas J. Cox)* | `ssc install statplot` |
-| `gpolish` <sub>v0.6.0</sub> | Publication-style Stata graphs: direct labels, callouts and an optional matplotlib render | [GitHub](https://github.com/ericabooth/gpolish-stata-public) |
+| `gpolish` <sub>v0.7.0</sub> | Publication-style Stata graphs: direct end labels, point labels with leader lines, callouts and brackets, a matplotlib render (gr2mpl) and a reproducible label-placement benchmark | [GitHub](https://github.com/ericabooth/gpolish-stata-public) |
 
 **Analyze, inspect &amp; document**
 
